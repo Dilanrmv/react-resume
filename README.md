@@ -1,5 +1,7 @@
 # React Resume for GitHub Pages
 
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Dilanrmv_react-resume&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Dilanrmv_react-resume)
+
 Ever thought about making your own resume website? Turned off by unnecessarily complicated templates? Enjoy bragging about how your site is
 built with fancy technologies like React despite probably not needing to be? Then boy do I have good news for you!
 
